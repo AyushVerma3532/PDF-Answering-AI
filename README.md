@@ -13,4 +13,4 @@ Setup the python environment and run 'streamlit run <PATH_TO_THE_PYTHON_FILE>/PD
 Make sure to install the latest version of transformers package that includes pipeline module.
 
 #Usage:
-The project can be used to study pdfs that are very large in size and it is not easy to find answers in it. The most common model currently availabe and used in this project is distilbert-base-cased-distilled-squad which gives the answers in the form of starting index and ending index, thus a context ois needed. This projects is helpful in fastening up the process of context filtering from the whole corpus.
+The project can be used to study pdfs that are very large in size and it is not easy to find answers in it. The most common model currently availabe and used in this project is distilbert-base-cased-distilled-squad which gives the answers in the form of starting index and ending index, thus a context is needed. This project is helpful in fastening up the process of context filtering from the whole corpus.
