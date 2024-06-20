@@ -1,0 +1,7 @@
+Python packages required for this project:
+transformers
+spacy
+streamlit
+pymupdf
+numpy
+scikit-learn
