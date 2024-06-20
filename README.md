@@ -1,3 +1,6 @@
 # PDF-Answering-AI
-*Idea behind the project![image](https://github.com/AyushVerma3532/PDF-Answering-AI/assets/101351198/7e0aee13-9d67-472d-a3e9-e240fec3dc29)
+#Idea behind the project
+
+The project ‘pdf answering AI’ is based on developing an AI application that takes a pdf file as an input and gives the answers to the questions of the user.
+![image](https://github.com/AyushVerma3532/PDF-Answering-AI/assets/101351198/1ad46537-c582-497e-a43a-4af77368fca7)
 
